@@ -1,7 +1,8 @@
 # Ignore everything
 *
 
-# But not these files/folders:
+# Except these files/folders
 !.gitignore
-!assets/
 !starforge.py
+!assets/
+!assets/** 
